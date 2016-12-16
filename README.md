@@ -1,0 +1,1 @@
+# Munin - Nagios usable JMXQuery.jar to consume JMX #
